@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F83677A4-1CF8-4384-845A-C87C63BBE29B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5EB9DFD-1044-4F44-98B3-587731164D71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/MainComponent.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "MainComponent::changeListenerCallback(source)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5EB9DFD-1044-4F44-98B3-587731164D71 - fff9a53519deaa77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainComponent::changeListenerCallback(juce::ChangeBroadcaster*)"
+                  moduleName = "Babby&apos;s FIrst DSP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Code/JUCE/Projects/Babby&apos;s%20First%20DSP/Babby&apos;s%20FIrst%20DSP/Source/MainComponent.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B5EB9DFD-1044-4F44-98B3-587731164D71 - fff9a53519deaa58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainComponent::changeListenerCallback(juce::ChangeBroadcaster*)"
+                  moduleName = "Babby&apos;s FIrst DSP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Code/JUCE/Projects/Babby&apos;s%20First%20DSP/Babby&apos;s%20FIrst%20DSP/Source/MainComponent.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "070A6C77-CE7A-4987-B2CA-31202EC51245"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/MainComponent.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "MainComponent::changeState(newState)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
